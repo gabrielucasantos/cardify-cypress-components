@@ -1,6 +1,6 @@
-# Cardify - Automação de Testes com Cypress
+# 💳 Cardify - Automação de Testes de Componentes com Cypress
 
-![Cardify Logo](https://img.shields.io/badge/Cardify-QA%20Automation-lime?style=for-the-badge&logo=cypress)
+![Cardify](https://github.com/user-attachments/assets/db7d9e15-6cd9-4475-8750-d1460a82a5f0)
 
 🎥 **Assista ao vídeo de demonstração** *(em breve)*
 
@@ -57,8 +57,6 @@ npx cypress run --component --spec "src/pages/AddCard.cy.jsx"
 # Execute apenas testes de fumaça
 npx cypress run --component --env grepTags=@smoke
 
-# Execute testes com relatórios detalhados
-npx cypress run --component --reporter html
 ```
 
 ## 🏗️ Como está organizado
