@@ -2,7 +2,7 @@
 
 ![Cardify](https://github.com/user-attachments/assets/db7d9e15-6cd9-4475-8750-d1460a82a5f0)
 
-🎥 **Assista ao vídeo de demonstração** *(em breve)*
+[🎥 Assista ao vídeo de demonstração](https://youtu.be/JeHu63UnJhY)
 
 Este projeto é uma automação completa de testes para a aplicação web Cardify, focada em **Quality Assurance (QA)**. Aqui você encontra uma implementação robusta de testes de componentes que cobre todo o fluxo de gerenciamento de cartões, desde a validação de formulários até a integração com APIs.
 
